@@ -1,6 +1,6 @@
 # Netflix Clone  
 
-This is a clone of the Netflix homepage as it appeared around November 17, 2024. It was created for educational purposes while following a tutorial by [CodeWithHarry](https://www.youtube.com/@CodeWithHarry). The project demonstrates basic web development skills using HTML and CSS.  
+This is a clone of the Netflix homepage as it appeared around November, 2024. It was created for educational purposes while following a tutorial by [CodeWithHarry](https://www.youtube.com/@CodeWithHarry). The project demonstrates basic web development skills using HTML and CSS.  
 
 ---
 
