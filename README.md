@@ -24,7 +24,7 @@ This is a clone of the Netflix homepage as it appeared around November, 2024. It
 ---
 
 ## Credits  
-- Tutorial by **CodeWithHarry**: [[https://www.youtube.com/@CodeWithHarr](https://www.youtube.com/watch?v=ovKVqo-L2EM&list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&index=53)y].  
+- Tutorial by **CodeWithHarry**: [https://www.youtube.com/watch?v=ovKVqo-L2EM&list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&index=53].  
 - Created by: [Aditya A].  
 
 ---
